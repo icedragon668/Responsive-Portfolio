@@ -188,6 +188,12 @@ button {
 p {
     margin: 10px;
 }
+
+p > img {
+    float: left;
+    margin-right: 8px;
+}
+
 /* Form Block End */
 /* position: relative (targets normal spot)
 position: absolute (targets nearest non-static) (these scroll)
