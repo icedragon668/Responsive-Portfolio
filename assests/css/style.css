@@ -50,6 +50,8 @@ header {
     font-size: 18px;
     height: 100%;
     margin: 10px;
+    margin-left: 0px;
+    margin-top: 10px;
 }
 
 li {
