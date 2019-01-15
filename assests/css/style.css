@@ -267,4 +267,5 @@ position: fixed (relative to viewport) (they don't scroll) */
 
 }
 
-/* work 'til 382... */
+/* works 'til 240... */
+/*if i had more time, i'd clean up this css, and make the portfolio images responsive. specifically, resize them to better fill the screen. */
